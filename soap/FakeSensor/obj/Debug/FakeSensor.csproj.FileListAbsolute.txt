@@ -1,0 +1,11 @@
+D:\Skole\SysDev-project\soap\FakeSensor\bin\Debug\FakeSensor.exe.config
+D:\Skole\SysDev-project\soap\FakeSensor\obj\Debug\FakeSensor.csprojResolveAssemblyReference.cache
+D:\Skole\SysDev-project\soap\FakeSensor\bin\Debug\FakeSensor.exe
+D:\Skole\SysDev-project\soap\FakeSensor\bin\Debug\FakeSensor.pdb
+D:\Skole\SysDev-project\soap\FakeSensor\obj\Debug\FakeSensor.exe
+D:\Skole\SysDev-project\soap\FakeSensor\obj\Debug\FakeSensor.pdb
+D:\Skole\SysDev-project\soap\FakeSensor\bin\Debug\Newtonsoft.Json.dll
+D:\Skole\SysDev-project\soap\FakeSensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\Terrarium\soap\FakeSensor\bin\Debug\FakeSensor.exe.config
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\Terrarium\soap\FakeSensor\obj\Debug\FakeSensor.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\Terrarium\soap\FakeSensor\obj\Debug\FakeSensor.pdb

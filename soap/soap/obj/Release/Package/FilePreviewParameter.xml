@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="servertemp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Skole\\SysDev-project\\soap\\soap\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Skole\\SysDev-project\\soap\\soap\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="EntityModel-Web.config Connection String" description="" value="data source=database-server-fran-easj.database.windows.net;initial catalog=database-fran-easj;persist security info=True;user id=fran;password=N76yu8t5.;MultipleActiveResultSets=True;App=EntityFramework" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Skole\\SysDev-project\\soap\\soap\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EntityModel']/@connectionString" />
+  </parameter>
+</parameters>
